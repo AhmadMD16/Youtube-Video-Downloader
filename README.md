@@ -5,5 +5,5 @@ The main purpose of this program is to make downloading videos from YouTube simp
 ![3D-model](https://github.com/AhmadMD16/Youtube-Video-Downloader/blob/main/images/GUI.png)
 
 ## Requirements
-* PyTube
+* [PyTube](https://github.com/pytube/pytube)
 * Tkinter
