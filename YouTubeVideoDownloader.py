@@ -7,7 +7,7 @@ def download_video():
     video = YouTube(url.get())
     video = video.streams.get_highest_resolution()
     print(video.title)
-    video.download(r'directory')
+    video.download(r'Directory')
     messagebox.showinfo("Success", "Video has been successfully downloaded")
 
 master = tk.Tk()
